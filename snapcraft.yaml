@@ -6,7 +6,7 @@ grade: stable
 confinement: strict
 
 apps:
-  hello-lhc:
+  kve-lhc:
     command: bin/hello-lhc
 
 parts:
