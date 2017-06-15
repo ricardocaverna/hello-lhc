@@ -1,8 +1,7 @@
-name: hello-lhc
-version: 1.0
+name: kve-lhc
 summary: Hello world application for LHC
 description: |
-  This is yet another hello-world clone ...
+  Cpitao Caveeeeerna
 grade: stable
 confinement: strict
 
